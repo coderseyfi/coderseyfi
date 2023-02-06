@@ -5,7 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Seyfaddin</h1>
 <h3 align="center">A passionate web-developer from Azerbaijan</h3>
-I'm Seyfaddin from Azerbaijan and I do content on Web Development. I really enjoy learning languages and frameworks like React. You can check out my linkedin https://www.linkedin.com/in/seyfaddin-nacafli-82983620b/ . <br/>
+<p>
+I'm Seyfaddin from Azerbaijan and I do content on Web Development. I really enjoy learning languages and frameworks like React. You can check out my linkedin https://www.linkedin.com/in/seyfaddin-nacafli-82983620b/ .
+</p>
 
 <p align="center" dir="auto">
   <animated-image data-catalyst="" style="width: 100%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" data-canonical-src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
