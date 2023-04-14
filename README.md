@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Seyfaddin</h1>
 <h3 align="center">A passionate web-developer from Azerbaijan</h3>
 <p>
-I'm Seyfaddin from Azerbaijan and I do content on Web Development. I really enjoy learning languages and frameworks like React. You can check out my linkedin https://www.linkedin.com/in/seyfaddin-nacafli-82983620b/ .
+I'm Seyfaddin from Azerbaijan and I do content on Web Development. I really enjoy learning languages and frameworks like React. 
 </p>
 
 <p align="center" dir="auto">
