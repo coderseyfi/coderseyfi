@@ -1,4 +1,5 @@
-# 💫 About Me:
+# <h1 align="center">Hi 👋, I'm Hashim</h1>
+<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 🔭 I’m currently working on personal portfolio<br>🌱 I’m currently learning React.js<br>📫 How to reach me seyfi.necefli@gmail.com
 
 
